@@ -1,0 +1,3 @@
+com\aca\sample\artemis\server\config\TestQueueJmsConfig.class
+com\aca\sample\artemis\server\LocalQueueTest.class
+com\aca\sample\artemis\server\config\TestQueueJmsConfig$TestJmsConsumer.class

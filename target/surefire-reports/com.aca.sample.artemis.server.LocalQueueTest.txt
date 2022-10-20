@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.aca.sample.artemis.server.LocalQueueTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.943 s - in com.aca.sample.artemis.server.LocalQueueTest
